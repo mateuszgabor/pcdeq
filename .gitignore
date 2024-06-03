@@ -1,0 +1,6 @@
+__pycache__
+weights/
+*mat
+MNIST/
+cifar-10-batches-py/
+*gz
